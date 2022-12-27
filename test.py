@@ -1,1 +1,1 @@
-print("test en python")
+print("bienvenue sur la page d'achat des produits")
